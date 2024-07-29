@@ -1,5 +1,5 @@
 # QA-portfolio
-[![Abblix OIDC Server](https://resources.abblix.com/imgs/jpg/abblix-oidc-server-github-banner.jpg)](https://www.abblix.com/abblix-oidc-server)
+https://github.com/matiassingers/awesome-readme
 
 
 
