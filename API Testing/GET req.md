@@ -9,12 +9,20 @@
 
 - **Type**: Inherit from parent
 
+
+## Query Params
+
+| Parameter | Parameter value |
+|---------------|-----------------------------|
+| `type`     | `non-fiction`   |
+| `limit`          | `2`                       |
+
+
 ## Variables
 
 | Variable Name | Value                       |
 |---------------|-----------------------------|
-| `baseUrl`     | `https://jsonplaceholder.typicode.com`   |
-| `id`          | `33`                       |
+| `baseUrl`     | `https://simple-books-api.glitch.me`   |
 
 ## Body
 
