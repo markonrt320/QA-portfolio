@@ -2,7 +2,7 @@
 
 ## Request
 
-- **URL**: `{{baseUrl}}/posts/`
+- **URL**: `{{baseUrl}}/api-clients/`
 - **Method**: POST
 
 ## Variables
