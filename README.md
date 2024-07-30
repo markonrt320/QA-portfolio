@@ -3,6 +3,13 @@
 ![2](https://github.com/user-attachments/assets/06f22e0f-65f6-4950-be36-cdfe52f93043)
 <hr>
 https://github.com/matiassingers/awesome-readme
+https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/README.md
+https://github.com/Stack-in-a-box/triumphmayflowerclub.com#readme
+https://github.com/leaviki90/QA-Portfolio/blob/main/README.md?plain=1
+https://onecompiler.com/mysql
+https://emojidb.org/data-base-emojis?utm_source=user_search
+
+
 
 ## 📝 About
 - `API Testing/`: Contains tests for various API requests.
