@@ -1,5 +1,9 @@
 # QA-portfolio
+![2](https://github.com/user-attachments/assets/06f22e0f-65f6-4950-be36-cdfe52f93043)
+
 https://github.com/matiassingers/awesome-readme
+
+
 
 
 
