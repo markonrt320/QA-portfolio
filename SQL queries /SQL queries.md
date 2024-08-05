@@ -1,5 +1,13 @@
+# SQL Queries
+
+Following links contains database dumps and all SQL queries. Click to be redirected and download:
+
+- [Characters Dump](https://drive.google.com/file/d/1aouJWJEOBXxIfR5RNekctdIimpgfzjo7/view?usp=sharing)
+- [Library Dump](https://drive.google.com/file/d/1hsHqN83engEs6HhtCEn2Ka3tQPk0e6ht/view?usp=sharing)
+
+
+
 ## Write the first and last name of the characters whose last name is Crabbe, Granger or Diggory
-<>
 
 **Description:**
 This query retrieves the first and last names of characters whose last name is Crabbe, Granger, or Diggory.
