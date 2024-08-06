@@ -35,8 +35,8 @@
     ├── Improvements
     │   ├── Improvements.md
     │   │
-    ├── Mobile
-    │   ├── Mobile.md
+    ├── MobileBugs
+    │   ├── MobileBugs.md
     │   │
     ├── SQL queries
     │   ├── SQL queries.md
